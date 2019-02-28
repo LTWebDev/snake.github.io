@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    letter-spacing: 0.2em;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    opacity: 0.7;
+    text-align: center;
+}
+
+h1 {    
+    color: #A6D402;
+    opacity: 1;
+    margin: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#small {
+    text-align: center;
+    font-size: 10px;
+}
+
+#score {
+    margin-bottom: 10px;
+}
